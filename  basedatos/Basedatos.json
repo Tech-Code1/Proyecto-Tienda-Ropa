@@ -1,0 +1,90 @@
+{
+	"badges": [
+  {
+    "id": 1,
+    "name": "camisa negra",
+    "price": 70.000,
+    "images": [],
+    "otoDat": "valor"
+  },    
+  {
+      "id": 2,
+      "name": "casadora blanca",
+      "price": 270.000,
+      "images": [],
+      "otoDat": "valor"
+    },
+    {
+      "id": 3,
+      "name": "camisa cafe",
+      "price": 90.000,
+      "images": [],
+      "otoDat": "valor"
+    },
+    {
+      "id": 4,
+      "name": "saco vinotinto",
+      "price": 80.000,
+      "images": [],
+      "otoDat": "valor"
+    },
+
+    {
+      "id": 5,
+      "name": "buso retro",
+      "price": 190.000,
+      "images": [],
+      "otoDat": "valor"
+    },
+    {
+      "id": 6,
+      "name": "buso retro2",
+      "price": 170.000,
+      "images": [],
+      "otoDat": "valor"
+    },
+    {
+      "id": 7,
+      "name": "camisa negra",
+      "price": 70.000,
+      "images": [],
+      "otoDat": "valor"
+    }  ,  
+    {
+        "id": 8,
+        "name": "casadora blanca",
+        "price": 270.000,
+        "images": [],
+        "otoDat": "valor"
+      },
+      {
+        "id": 9,
+        "name": "camisa cafe",
+        "price": 70.000,
+        "images": [],
+        "otoDat": "valor"
+      },
+      {
+        "id": 10,
+        "name": "saco vinotinto",
+        "price": 70.000,
+        "images": [],
+        "otoDat": "valor"
+      },
+
+      {
+        "id": 11,
+        "name": "buso retro",
+        "price": 70.000,
+        "images": [],
+        "otoDat": "valor"
+      },
+      {
+        "id": 12,
+        "name": "buso retro2",
+        "price": 70.000,
+        "images": [],
+        "otoDat": "valor"
+      }
+]
+}

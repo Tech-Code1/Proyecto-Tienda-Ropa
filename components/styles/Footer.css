@@ -1,0 +1,24 @@
+html {
+    min-height: 100%;
+    position: relative;
+  }
+  body {
+    margin: 0;
+    margin-bottom: 40px;
+  }
+
+.Footer{
+    position: absolute; 
+    left: 0; 
+    bottom: 0; 
+    height: 140px;
+    width: 100%;
+    color: #FFFF;
+    background-color: black;
+    z-index: 3;
+}
+p{
+    margin-left: 20px;
+    font-size: 10px;
+}
+

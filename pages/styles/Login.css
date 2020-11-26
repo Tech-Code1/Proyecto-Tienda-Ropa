@@ -1,0 +1,101 @@
+.login-background {
+  background-image: url("./../../img/login.png");
+  background-size: cover;
+  padding-top: 35px;
+  width: 100%;
+  height: 700px;
+}
+.login-title {
+  text-align: center;
+  overflow: hidden;
+}
+
+.login-title {
+  text-align: center;
+  text-shadow: 2px 3px 3px rgb(182, 155, 155);
+}
+#button-cont {
+  text-align: center;
+  margin-top: 2%;
+}
+#button-log {
+  background-image: linear-gradient(
+    40deg,
+    #9e2eff 0,
+    #5f0ced 50%,
+    #0000db 100%
+  );
+  color: white;
+  font-weight: bold;
+  box-shadow: 3px 3px 4px black;
+}
+#button-log:hover {
+  background-image: linear-gradient(
+    85deg,
+    #cc8700 0,
+    #d27c00 8.33%,
+    #d87000 16.67%,
+    #dd6100 25%,
+    #e05000 33.33%,
+    #e23b0b 41.67%,
+    #e31818 50%,
+    #e30022 58.33%,
+    #e2002c 66.67%,
+    #e00037 75%,
+    #dc0042 83.33%,
+    #d8004f 91.67%,
+    #d2005c 100%
+  );
+}
+.login-container {
+  background-color: white;
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+  opacity: 0.9;
+  margin: auto;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 6%;
+  padding-bottom: 6%;
+  width: 600px;
+  animation-name: apa;
+  animation-duration: 2s;
+}
+
+@keyframes apa {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.9;
+  }
+}
+
+#input {
+  outline: none;
+  border: 1px solid black;
+  background-color: none;
+}
+
+#input:focus {
+  border: 1px solid rgb(75, 18, 207);
+  transform: scaleX(-100%);
+  transition: all 2s ease;
+}
+
+.my-facebook-button-class {
+  background-color: #3b5998;
+  color: white;
+  padding: 10px;
+  border-radius: 7px;
+}
+.my-facebook-button-class:hover {
+  background-image: radial-gradient(
+    circle at 100% 0%,
+    #87b5ff 0,
+    #6c90d8 50%,
+    #526da2 100%
+  );
+}
+.fa-facebook {
+  padding-right: 10px;
+}

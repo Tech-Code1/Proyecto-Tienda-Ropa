@@ -1,0 +1,33 @@
+.description-background {
+  background-image: url("https://cdn.pixabay.com/photo/2015/10/12/15/18/clothing-store-984396_960_720.jpg");
+  position: absolute;
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+  top: 0;
+  bottom: 0;
+}
+
+.description-container {
+  background-color: white;
+  width: fit-content;
+  max-width: 90%;
+  padding: 3%;
+  margin: auto;
+  margin-top: 2%;
+  height: 90%;
+  opacity: 0.9;
+  animation-name: apa;
+  animation-duration: 2s;
+}
+
+.container {
+  margin-top: 3%;
+  height: 100%;
+}
+.description-list-container {
+  height: 50%;
+  width: 90%;
+  overflow: auto;
+  position: absolute;
+}
